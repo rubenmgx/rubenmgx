@@ -1,5 +1,5 @@
 #Hi there, I'm Ruben Martinez 👋
 
-*SRE at Red HaT  
+Working as SRE at Red Hat
 
 [Linkedin Profile](https://www.linkedin.com/in/rubenmartinezgomez/)
